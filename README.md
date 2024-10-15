@@ -1,0 +1,1 @@
+# Farmland-Segmentation-in-Satellite-Imagery-using-Attention-Based-U-Net-Architectures
